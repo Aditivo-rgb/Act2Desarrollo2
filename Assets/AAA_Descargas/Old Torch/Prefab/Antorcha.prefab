@@ -173,7 +173,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 341442189228431301, guid: c14c94f4c1c004c4db9a29d80a1ef822, type: 3}
       propertyPath: LightsModule.enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 341442189228431301, guid: c14c94f4c1c004c4db9a29d80a1ef822, type: 3}
       propertyPath: LightsModule.maxLights
