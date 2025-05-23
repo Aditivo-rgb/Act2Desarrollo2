@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!114 &-7248667755702139786
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -31,12 +32,24 @@ Material:
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords:
   - _ALPHABLEND_ON
+=======
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DustFloor
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _ALPHABLEND_ON _NORMALMAP
+>>>>>>> Nivel_Jorge
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
   stringTagMap:
     RenderType: Transparent
+<<<<<<< HEAD
   disabledShaderPasses:
   - MOTIONVECTORS
   - DepthOnly
@@ -49,6 +62,12 @@ Material:
         m_Texture: {fileID: 2800000, guid: 6459a09789adcea45a0ea197a5ecda0e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+=======
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+>>>>>>> Nivel_Jorge
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: 4821fc4a65555604691e48832d3bb2c3, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -85,6 +104,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< HEAD
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -118,6 +138,13 @@ Material:
     - _DstBlend: 10
     - _DstBlendAlpha: 10
     - _EnvironmentReflections: 1
+=======
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.59
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+>>>>>>> Nivel_Jorge
     - _GlossMapScale: 1
     - _Glossiness: 0.1
     - _GlossyReflections: 1
@@ -125,6 +152,7 @@ Material:
     - _Mode: 2
     - _OcclusionStrength: 1
     - _Parallax: 0.08
+<<<<<<< HEAD
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.1
@@ -143,3 +171,13 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+=======
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 5
+    - _UVSec: 0
+    - _ZWrite: 0
+    m_Colors:
+    - _Color: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> Nivel_Jorge

@@ -12,5 +12,9 @@ AssetOrigin:
   productId: 112442
   packageName: Alchemist House
   packageVersion: 1.0
+<<<<<<< HEAD
   assetPath: Assets/BK_AlchemistHouse/Textures/Furniture/Materials/GlassRefraction.mat
+=======
+  assetPath: Assets/AAA_Descargas/BK_AlchemistHouse/Textures/Furniture/Materials/GlassRefraction.mat
+>>>>>>> Nivel_Jorge
   uploadId: 248818

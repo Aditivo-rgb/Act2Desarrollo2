@@ -71,5 +71,9 @@ AssetOrigin:
   productId: 112442
   packageName: Alchemist House
   packageVersion: 1.0
+<<<<<<< HEAD
   assetPath: Assets/BK_AlchemistHouse/Textures/Items/Misc/paintings03_m.png
+=======
+  assetPath: Assets/AAA_Descargas/BK_AlchemistHouse/Textures/Items/Misc/paintings03_m.png
+>>>>>>> Nivel_Jorge
   uploadId: 248818

@@ -2,7 +2,11 @@ fileFormatVersion: 2
 guid: eb27dfde8e517594cb805604d9b52b67
 NativeFormatImporter:
   externalObjects: {}
+<<<<<<< HEAD
   mainObjectFileID: 4890085278179872738
+=======
+  mainObjectFileID: 0
+>>>>>>> Nivel_Jorge
   userData: 
   assetBundleName: 
   assetBundleVariant: 

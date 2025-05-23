@@ -12,5 +12,9 @@ AssetOrigin:
   productId: 112442
   packageName: Alchemist House
   packageVersion: 1.0
+<<<<<<< HEAD
   assetPath: Assets/BK_AlchemistHouse/Textures/Items/Jar/Materials/Jar01.mat
+=======
+  assetPath: Assets/AAA_Descargas/BK_AlchemistHouse/Textures/Items/Jar/Materials/Jar01.mat
+>>>>>>> Nivel_Jorge
   uploadId: 248818

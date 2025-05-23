@@ -5,7 +5,11 @@ AssetOrigin:
   productId: 112442
   packageName: Alchemist House
   packageVersion: 1.0
+<<<<<<< HEAD
   assetPath: Assets/BK_AlchemistHouse/Textures/Misc/Dot.png
+=======
+  assetPath: Assets/AAA_Descargas/BK_AlchemistHouse/Textures/Misc/Dot.png
+>>>>>>> Nivel_Jorge
   uploadId: 248818
 TextureImporter:
   internalIDToNameTable: []
@@ -100,6 +104,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
+<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 32
@@ -113,6 +118,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
+=======
+>>>>>>> Nivel_Jorge
   spriteSheet:
     serializedVersion: 2
     sprites: []
